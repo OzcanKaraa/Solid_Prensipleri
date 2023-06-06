@@ -1,0 +1,19 @@
+SOLID Prensipleri Nedir?
+
+Yapmýþ olduðumuz yazýlýmlarda daha kolay deðiþtirilebilir, güncellenebilir, daha modüler kodlar yazmamýzý saðlar..
+
+S - Single Responsibility ( Tek sorumluluk)
+Program içindeki bir görev parçacýðýnýn (class,method..) birden fazla iþ yüküyle tanýmlanmamalýdýr. (yüklerin daðýtýlmasý)
+
+O - Open/Close
+
+
+L - Liskov Substitution
+
+
+I - Interface Segregation (Arayüzlerin ayrýlmasý)
+
+
+D - Dependency Inversion 
+Baðýmlýlýklarý tersine çevirme..
+
