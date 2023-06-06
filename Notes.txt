@@ -10,11 +10,11 @@ Program içerisinde yaratýlmýþ olan nesnelerin deðiþime kapalý, geniþlemeye açýk 
 
 
 L - Liskov Substitution
-Kodiarýmýzda herhangi bir deðiþiklik yapmaya gerek duymadan alt sýnýflarý, türedikleri üst sýnýflarýn yerine kullanabilmeliyiz...
+Kodlarýmýzda herhangi bir deðiþiklik yapmaya gerek duymadan alt sýnýflarý, türedikleri üst sýnýflarýn yerine kullanabilmeliyiz...
 
 
-I - Interface Segregation (Arayüzlerin ayrýlmasý)
-
+I - Interface Segregation (Arayüzlerin ayrýlmasý prensibi)
+Arayüz yapýsý kullanýldýðýnda , tek bir büyük arayüz kullanmak yerine , her arayüzün hizmet ettiði gruplara dayalý olarak tek bir büyük interface yapýsý yerine, çok sayýda küçük yapýda arayüz kullanýmý tercih edilmelidir.
 
 D - Dependency Inversion 
 Baðýmlýlýklarý tersine çevirme..
