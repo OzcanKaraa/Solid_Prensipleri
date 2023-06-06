@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Notes.txt = Notes.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.OpenClosed", "2.OpenClosed\2.OpenClosed.csproj", "{54C66810-2E46-4356-BB53-F105DE9784E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.LiskovSubstitution", "3.LiskovSubstitution\3.LiskovSubstitution.csproj", "{9FAA4A80-73F0-44E1-AF20-F4C5D3A1E1C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{80390043-925D-450A-ABFA-7BAB31FA4F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80390043-925D-450A-ABFA-7BAB31FA4F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80390043-925D-450A-ABFA-7BAB31FA4F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C66810-2E46-4356-BB53-F105DE9784E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C66810-2E46-4356-BB53-F105DE9784E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C66810-2E46-4356-BB53-F105DE9784E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C66810-2E46-4356-BB53-F105DE9784E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAA4A80-73F0-44E1-AF20-F4C5D3A1E1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAA4A80-73F0-44E1-AF20-F4C5D3A1E1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAA4A80-73F0-44E1-AF20-F4C5D3A1E1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAA4A80-73F0-44E1-AF20-F4C5D3A1E1C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
